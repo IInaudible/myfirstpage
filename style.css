@@ -1,0 +1,12 @@
+body{
+    background-color: purple;
+}
+h1{
+    color: hotpink;
+}
+a{
+    display: block;
+    background-color: indigo;
+    color: lawngreen;
+    padding: 10px;
+}
